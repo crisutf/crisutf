@@ -1,18 +1,16 @@
 # 👋 ¡Hola! Soy **Crisutf**
 
-![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
-
 ### 😴 Sobre mí
 >Tengo sueño
 - Soy el **creador de [Projectf](https://projectf.pages.dev/)**
+  ![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
 
 ---
 
 ### ⚙️ Tecnologías y herramientas
 - 🧠 **Lenguajes:** Python, HTML, CSS, JS  
 - 🧩 **Proyectos:** Maxcheto, Crisutf TV+ y Projectf  
-- 💻 **Plataformas:** Chromebook + GeforceNow  
-- 🎮 **Gaming:** Mando PS5, modo recarga (élite 20%)  
+- 💻 **Plataformas:** Chromebook + INVES
 
 ---
 
