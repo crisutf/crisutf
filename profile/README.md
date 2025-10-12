@@ -1,15 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Crisutf+**
 
+![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
 
-**crisutf/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+### 😴 Sobre mí
+Soy **Crisutf**, tengo sueño casi siempre 😴, pero aun así soy el **creador de [Projectf](https://projectf.pages.dev/)** — un proyecto hecho con dedicación, diseño limpio y tecnología moderna.  
 
-Here are some ideas to get you started:
+Me gusta construir cosas desde cero, sin depender de lo típico.  
+Mi lema: *"Si puedo hacerlo yo, no necesito que otro lo haga por mí."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### ⚙️ Tecnologías y herramientas
+- 🧠 **Lenguajes:** Python, HTML, CSS, JS  
+- 🧩 **Proyectos:** Todo hecho a mano, sin plantillas  
+- 💻 **Plataformas:** Chromebook + Xbox Cloud Gaming  
+- 🎮 **Gaming:** Mando PS5, modo recarga (élite 20%)  
+
+---
+
+### 📫 Contacto
+- 💌 maxcheto.yutub@gmail.com  
+- 🌐 [Projectf.pages.dev](https://projectf.pages.dev)  
+
+---
+
+> _“No me gusta lo común. Prefiero lo funcional, limpio y diferente.”_  
+> — **Crisutf+**
