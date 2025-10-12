@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy **Crisutf+**
+# 👋 ¡Hola! Soy **Crisutf**
 
 ![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
 
 ### 😴 Sobre mí
-- Soy **Crisutf**, tengo sueño
+>Tengo sueño
 - Soy el **creador de [Projectf](https://projectf.pages.dev/)**
 
 ---
