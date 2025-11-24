@@ -33,4 +33,4 @@ Soy un desarrollador apasionado por crear experiencias digitales que no solo fun
 ### 📫 Contacto
 ¿Tienes una idea o quieres colaborar?
 - 💌 **Email**: crisutf@googlegroups.com
-- 🌐 **Web**: [Projectf.pages.dev](https://projectf.pages.dev)
+- 🌐 **Web**: [crisutf.pages.dev](https://crisutf.pages.dev)
