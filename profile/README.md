@@ -16,12 +16,9 @@ Soy un desarrollador apasionado por crear experiencias digitales que no solo fun
 ---
 
 ### 🌟 Proyectos Destacados
-- **[Projectf](https://projectf.pages.dev/)**: Mi proyecto principal.
+- **[Crisutf](https://github.com/crisutf/Crisutf-TV)**: Mi proyecto principal.
 - **[Jabra](https://github.com/crisutf/Jabra)**: Reproductor de música local impulsado por Node.js.
 - **[Owl-s-eye](https://github.com/crisutf/Owl-s-eye)**: Extensión de control parental y seguridad.
-
-![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
-
 ---
 
 ### 📊 Mis Estadísticas
