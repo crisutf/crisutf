@@ -1,16 +1,15 @@
 # 👋 ¡Hola! Soy **Crisutf**
 
 ### � Sobre mí
-Soy alguien que le gusta hacer cosas que se sientan que valgan la pena y premium
-> _“No me gusta lo común. Prefiero lo funcional, limpio y lo que se sienta premium. :D”_
+Soy alguien que le gusta hacer cosas
+> _:D_
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js
-- **Sistemas**: CMD/Shell Scripting
-- **Otros**: Desarrollo de Extensiones, Seguridad Informática
+- **Otros**: Desarrollo de Extensiones
 
 ---
 
@@ -27,6 +26,5 @@ Soy alguien que le gusta hacer cosas que se sientan que valgan la pena y premium
 ---
 
 ### 📫 Contacto
-¿Tienes una idea o quieres colaborar?
 - 💌 **Email**: crisutf@googlegroups.com
 - 🌐 **Web**: [crisutf.pages.dev](https://crisutf.pages.dev)
