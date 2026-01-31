@@ -27,4 +27,4 @@ Soy alguien que le gusta hacer cosas
 
 ### 📫 Contacto
 - 💌 **Email**: crisutf@googlegroups.com
-- 🌐 **Web**: [crisutf.pages.dev](https://crisutf.pages.dev)
+- 🌐 **Web**: [crisu.qzz.io](https://crisu.qzz.io)
