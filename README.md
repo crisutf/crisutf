@@ -1,5 +1,10 @@
 # 👋 ¡Hola! Soy **Crisutf**
 
+</p>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/852601982472421476"/>
+</p>
+
 ### � Sobre mí
 Soy alguien que le gusta hacer cosas
 > _:D_
