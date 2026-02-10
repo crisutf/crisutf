@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy <a href="https://github.com/crisutf">Crisutf</a></h1>
-  <p><em>Desarrollador apasionado creando soluciones únicas</em></p>
+  <p><em>Soy apasionado a hacer cosas</em></p>
   
   <a href="https://discord.com/users/852601982472421476">
     <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
