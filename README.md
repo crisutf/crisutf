@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy <a href="https://github.com/crisutf">Crisutf</a></h1>
-  <p><em>Soy apasionado a hacer cosas</em></p>
+  <p><em>Soy alguien que le gusta a hacer cosas </em></p>
   
   <a href="https://discord.com/users/852601982472421476">
     <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
@@ -18,8 +18,8 @@
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador entusiasta que disfruta construyendo herramientas útiles y experiencias de entretenimiento. Me encanta explorar nuevas tecnologías y llevar ideas a la realidad.
-> _"Haciendo cosas increíbles con tecnología."_
+Soy yo que disfruta construyendo herramientas útiles y experiencias de entretenimiento. Me gusta explorar nuevas tecnologías y llevar ideas a la realidad.
+> _"_"Hagodo cosas por quesi."_
 
 ---
 
