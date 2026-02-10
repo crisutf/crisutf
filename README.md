@@ -1,35 +1,76 @@
-# 👋 ¡Hola! Soy **Crisutf**
+<div align="center">
+  <h1>👋 ¡Hola! Soy <a href="https://github.com/crisutf">Crisutf</a></h1>
+  <p><em>Desarrollador apasionado creando soluciones únicas</em></p>
+  
+  <a href="https://discord.com/users/852601982472421476">
+    <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Trae.ai Badge -->
+  <a href="https://trae.ai">
+    <img src="https://img.shields.io/badge/Code_with-Trae.ai-blueviolet?style=for-the-badge&logo=openai" alt="Powered by Trae.ai">
+  </a>
+</div>
 
-</p>
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/852601982472421476"/>
-</p>
+---
 
-### � Sobre mí
-Soy alguien que le gusta hacer cosas
-> _:D_
+### 🚀 Sobre mí
+
+Soy un desarrollador entusiasta que disfruta construyendo herramientas útiles y experiencias de entretenimiento. Me encanta explorar nuevas tecnologías y llevar ideas a la realidad.
+> _"Haciendo cosas increíbles con tecnología."_
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Frontend**: React, HTML, CSS
-- **Backend**: Node.js
-- **Otros**: Desarrollo de Extensiones
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **AI Assistant** | ![Trae.ai](https://img.shields.io/badge/-Trae.ai-blueviolet?style=flat-square) |
 
 ---
 
 ### 🌟 Proyectos Destacados
-- **[Crisutf TV+](https://github.com/crisutf/Crisutf-TV)**: Ver canales de españa de una forma mas comoda
-- **[Jabra](https://github.com/crisutf/Jabra)**: Reproductor de música local impulsado por Node.js.
-- **[Owl-s-eye](https://github.com/crisutf/Owl-s-eye)**: Extensión de control parental y seguridad.
+
+> 💡 **Nota:** Todos estos proyectos han sido desarrollados y potenciados con la ayuda de **[Trae.ai](https://trae.ai)**.
+
+- 📺 **[Crisutf TV+](https://github.com/crisutf/Crisutf-TV)**
+  <br/>Ver canales de España de una forma más cómoda y con menos bloqueos.
+
+- 🎵 **[Jabra](https://github.com/crisutf/Jabra)**
+  <br/>Reproductor de música local ligero y eficiente impulsado por Node.js.
+
+- 🦉 **[Owl's Eye](https://github.com/crisutf/Owl-s-eye)**
+  <br/>Extensión de control parental y seguridad avanzada para navegación segura.
+
 ---
 
 ### 📊 Mis Estadísticas
-![Crisu's github stats](https://github-readme-stats.vercel.app/api?username=Crisutf&theme=dark&hide_border=true&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisutf&layout=compact&theme=dark&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crisutf&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Crisutf Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crisutf&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
 ### 📫 Contacto
-- 💌 **Email**: crisutf@googlegroups.com
+
+- 💌 **Email**: [crisutf@googlegroups.com](mailto:crisutf@googlegroups.com)
 - 🌐 **Web**: [crisu.qzz.io](https://crisu.qzz.io)
+
+---
+
+<div align="center">
+  <h3>⚡ Power-Up Your Coding with Trae.ai</h3>
+  <p>
+    ¿Te gusta lo que ves? Este perfil y mis proyectos son posibles gracias a <strong>Trae.ai</strong>. 
+    Es mi IDE de IA favorito que acelera mi flujo de trabajo. 
+    <br/>
+    👉 <a href="https://trae.ai">Descúbrelo aquí</a>
+  </p>
+</div>
