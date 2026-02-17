@@ -7,13 +7,6 @@
   </a>
   
   <br/><br/>
-  
-  <!-- Trae.ai Badge -->
-  <a href="https://trae.ai">
-    <img src="https://img.shields.io/badge/Code_with-Trae.ai-blueviolet?style=for-the-badge&logo=openai" alt="Powered by Trae.ai">
-  </a>
-</div>
-
 ---
 
 ### 🚀 Sobre mí
