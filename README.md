@@ -12,7 +12,7 @@
 ### 🚀 Sobre mí
 
 Soy yo que disfruta construyendo herramientas útiles y experiencias de entretenimiento. Me gusta explorar nuevas tecnologías y llevar ideas a la realidad.
-> _"_"Hagodo cosas por quesi."_
+> _"_"Hago cosas por que si."_
 
 ---
 
