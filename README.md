@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy <a href="https://github.com/crisutf">Crisutf</a></h1>
-  <p><strong>Desarrollador apasionado por crear soluciones útiles y entretenimiento digital.</strong></p>
+  <p><strong>El Diseño Web o de apps es mi fuerte.</strong></p>
   
   <a href="https://discord.com/users/852601982472421476">
     <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
@@ -11,9 +11,9 @@
 
 ### 🚀 Sobre mí
 
-Me dedico a construir herramientas que simplifican el acceso a contenido y experiencias interactivas. Me encanta explorar nuevas tecnologías y transformar ideas abstractas en proyectos reales.
+Hago cosas por que no se
 
-> *"La curiosidad es el motor de todo lo que construyo."*
+> *"Me da tock si no me gusta el diseño que no se sienta ideal."*
 
 ---
 
