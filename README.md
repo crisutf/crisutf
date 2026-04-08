@@ -52,5 +52,5 @@ Hago cosas por que no se
 ---
 
 <div align="center">
-  <p>⚡ <em>Potenciando el código con <strong>Trae.ai</strong></em></p>
+  <p>⚡ <em>Uso <strong>Trae.ai</strong></em> :)</p>
 </div>
